@@ -82,7 +82,7 @@ print(type(b))'''
 
 '''Largest of 3 numbers'''
 
-a=int(input("Enter the value of a"))
+'''a=int(input("Enter the value of a"))
 b=int(input("Enter the value of b"))
 c=int(input("Enter the value of c"))
 if a>=b and a>=c:
@@ -91,7 +91,7 @@ elif b>=a and b>=c:
     largest=b
 else:
     largest=c
-print("The largest number is",largest)
+print("The largest number is",largest)'''
     
 
 
